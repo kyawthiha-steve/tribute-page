@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background: #eee;
+}
+h2 {
+  font-size: 16px;
+}
+.img-div {
+  background: #fff;
+}
+#img-main {
+  display: block;
+  margin: auto;
+}
+figcaption {
+  margin-top: 1em;
+}
+article {
+  width: 45%;
+  margin: auto;
+  text-align: left;
+  line-height: 2.5em;
+}
+ul {
+   list-style-position: inside;
+}
+span {
+   font-weight: bold;
+}
+.quote, .quote-author{
+  font-style: italic;
+  line-height: 1.5em;
+}
